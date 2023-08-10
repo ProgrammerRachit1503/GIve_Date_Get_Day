@@ -1,6 +1,6 @@
-numDays = [31,28,31,30,31,30,31,31,30,31,30,31]
-month = int(input("Please enter the month: "))
+numDays = [3,0,3,2,3,2,3,3,2,3,2,3]
 day = int(input("Please enter the day: "))
+month = int(input("Please enter the month: "))
 year = int(input("Please enter the year: "))
 
 wasteYear = (year-1)%400
