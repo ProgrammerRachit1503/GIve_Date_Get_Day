@@ -8,7 +8,7 @@ public class days {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
 
-        int[] numDays = {31,28,31,30,31,30,31,31,30,31,30,31};
+        int[] numDays = {3,0,3,2,3,2,3,3,2,3,2,3};
         System.out.println("a month, day and year in number form");
         int month = kb.nextInt();
         kb.nextLine();
